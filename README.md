@@ -1,7 +1,8 @@
-lyndon-screen
+# Lyndon Screen
 =============
 
-get stdout/stderr columns
+Lyndon Stdout/Stderr Framework
+
 
 [![Version](https://img.shields.io/npm/v/lyndon-screen.svg)](https://npmjs.org/package/lyndon-screen)
 [![CircleCI](https://circleci.com/gh/benchlab/lyndon-screen/tree/master.svg?style=svg)](https://circleci.com/gh/benchlab/lyndon-screen/tree/master)

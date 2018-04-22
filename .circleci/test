@@ -23,7 +23,7 @@ if [[ "$HOUSTON_ENGINE_GREENKEEPER_BRANCH" == 1 ]]; then
   greenkeeper-lockfile-upload
 fi
 
-yarn add -D nyc @benchlab/lyndon-shell-config
+yarn add -D nyc lyndon-shell-config
 yarn test
 
 curl -s https://codecov.io/bash | bash
