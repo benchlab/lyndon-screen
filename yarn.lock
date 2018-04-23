@@ -343,6 +343,15 @@ eslint-ast-utils@^1.0.0:
     lodash.get "^4.4.2"
     lodash.zip "^4.2.0"
 
+eslint-config-lyndon@latest:
+  version "0.4.9"
+  resolved "https://registry.yarnpkg.com/eslint-config-lyndon/-/eslint-config-lyndon-0.4.9.tgz#299cdaa95d628e08ec37589b1b9877048683eac6"
+  dependencies:
+    eslint-config-xo-space "^0.18.0"
+    eslint-plugin-mocha "^4.12.1"
+    eslint-plugin-node "^6.0.1"
+    eslint-plugin-unicorn "^4.0.2"
+
 eslint-config-xo-space@^0.18.0:
   version "0.18.0"
   resolved "https://registry.yarnpkg.com/eslint-config-xo-space/-/eslint-config-xo-space-0.18.0.tgz#92c8130b1ebaad9162bb822fdc8bc8e9f4fa5b8a"
@@ -742,15 +751,6 @@ lru-cache@^4.0.1:
   dependencies:
     pseudomap "^1.0.2"
     yallist "^2.1.2"
-
-lyndon-eslint-config@latest:
-  version "0.4.4"
-  resolved "https://registry.yarnpkg.com/lyndon-eslint-config/-/lyndon-eslint-config-0.4.4.tgz#662a80d0af5dc441b67f4c0711880572d117b601"
-  dependencies:
-    eslint-config-xo-space "^0.18.0"
-    eslint-plugin-mocha "^4.12.1"
-    eslint-plugin-node "^6.0.1"
-    eslint-plugin-unicorn "^4.0.2"
 
 lyndon-tslint@latest:
   version "0.3.5"
