@@ -12,3 +12,4 @@ Lyndon Stdout/Stderr Framework
 [![Known Vulnerabilities](https://snyk.io/test/npm/lyndon-screen/badge.svg)](https://snyk.io/test/npm/lyndon-screen)
 [![Downloads/week](https://img.shields.io/npm/dw/lyndon-screen.svg)](https://npmjs.org/package/lyndon-screen)
 [![License](https://img.shields.io/npm/l/lyndon-screen.svg)](https://github.com/benchlab/lyndon-screen/blob/master/package.json)
+[![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
